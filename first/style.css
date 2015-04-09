@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+html,body{
+	height:100%;
+	background-color: #000;
+}
+.headerDiv{
+	background-color: #3C3C3C;
+	height: 25%;
+}
+
+.grey-bg{
+	float: left;
+	background-color: #D2D2D2;
+}
+
+.sides{
+	width: 20%;
+	height: 75%;
+}
+.content{
+	background-color: #ECECEC;
+	float: left;
+	height: 65%;
+	width: 60%;
+}
